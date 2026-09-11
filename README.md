@@ -1,10 +1,11 @@
 ### Chukwudi Duru
 
-Software engineer focused on systems that touch real money and real users.
+Software engineer. I build systems that handle real money, real users, and real edge cases.
 
-**Primary work**
-- **options-engine**  Live options strategy engine with honest backtesting, risk gating, position lifecycle, and Telegram alerting. Analysis + alerts only (never places orders).
-- Agent systems for production workflows (KPI digests, adherence monitoring, multi-source data pulls).
-- Practical tools: local transcription, browser extensions, desktop utilities.
+**What I work on**
+- **options-engine** — Live options strategy engine in Python. Finds high-conviction setups, sizes risk, tracks positions the whole way, and sends structured Telegram alerts. Covers SPX, SPY, TSLA, and other liquid names. Analysis and alerts only. Never places orders.
+- **Transcript-app** — Local GPU-accelerated transcription. Paste a YouTube, TikTok, or Instagram link and get solid speech-to-text. On phone you can just copy a link and it drops you straight into the app.
+- **GRE Quant Coach** — Desktop app for GRE Quant. Adaptive drills, full section sims, spaced repetition, progress tracking. Aimed at 165–170.
+- **Agent systems** — Production multi-agent stuff (KPI digests, adherence monitoring) plus writing about what it actually takes to ship them.
 
-I care about clear ownership of risk, measurable behavior, and systems that survive restarts and edge cases.
+I care about owning risk clearly, systems that survive restarts, and measuring things honestly.
