@@ -1,11 +1,11 @@
 ### Chukwudi Duru
 
-Software engineer. I build systems that handle real money, real users, and real edge cases.
+Software engineer. I build and operate systems that handle real capital, live state, and real users.
 
-**What I work on**
-- **options-engine** - Live options strategy engine in Python. Finds high-conviction setups, sizes risk, tracks positions the whole way, and sends structured Telegram alerts. Covers SPX, SPY, TSLA, and other liquid names. Analysis and alerts only. Never places orders.
-- **Transcript-app** - Local GPU-accelerated transcription. Paste a YouTube, TikTok, or Instagram link and get solid speech-to-text. On phone you can just copy a link and it drops you straight into the app.
-- **GRE Quant Coach** - Desktop app for GRE Quant. Adaptive drills, full section sims, spaced repetition, progress tracking. Aimed at 165–170.
-- **Agent systems** - Production multi-agent stuff (KPI digests, adherence monitoring) plus writing about what it actually takes to ship them.
+**Current focus**
+- **options-engine** — Live options strategy engine (Python). Detects setups, sizes risk to a fixed percent of capital, tracks every position through its full lifecycle, and sends structured alerts. Covers SPX, SPY, TSLA and other liquid names. Analysis and alerts only. Never places orders.
+- **Transcript-app** — Local GPU-accelerated transcription. Paste a YouTube, TikTok, or Instagram link for high-quality speech-to-text. Mobile flow lets you copy a link and land directly in the app.
+- **GRE Quant Coach** — Desktop coaching app for GRE Quantitative Reasoning. Adaptive drills, full-section simulation, spaced repetition, progress tracking.
+- **Agent systems** — Production multi-agent workflows (KPI digests, adherence monitoring) and writing on what it takes to ship them reliably.
 
-I care about owning risk clearly, systems that survive restarts, and measuring things honestly.
+I care about clear ownership of risk, systems that survive restarts, and measuring results honestly instead of optimizing for backtest curves.
